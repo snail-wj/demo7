@@ -3,6 +3,7 @@ hello,i am gsy
 hello,gsy,i am wangjing
 you are pretty zzz
 you are zzz
+cherry-pick
 this is my friends .
 one  t1
 one --> first
